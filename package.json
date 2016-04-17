@@ -1,0 +1,21 @@
+{
+  "name": "json-biscuit",
+  "version": "0.0.2",
+  "description": "a simple JSON parsing library",
+  "keywords": [
+    "json",
+    "simple"
+  ],
+  "homepage": "https://github.com/wavebeem/json-crumpet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wavebeem/json-crumpet"
+  },
+  "license": "MIT",
+  "author": "Brian Mock <brian@mockbrian.com> (http://mockbrian.com/)",
+  "main": "src/json-biscuit.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "parsimmon": "^0.7.0"
+  }
+}
